@@ -1,1 +1,1 @@
-# Projects
+# Small hobby projects
